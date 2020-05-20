@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1, 
+    "basketName": "green", 
+    "items": [
+      {"name": "wheatgrass"}, 
+      {"name": "spirulina"}
+    ]
+  },
+  {
+    "id": 2, 
+    "basketName": "antioxidant", 
+    "items": [
+      {"name": "blueberries"}, 
+      {"name": "goji"}
+    ]
+  }
+]
