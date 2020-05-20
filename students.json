@@ -3,18 +3,21 @@
     "id": 1, 
     "students": "James",
     "age": "50",
-    "eyecolor": "blue"
+    "eyecolor": "blue",
+    "grade" : "A"
   },
   {
     "id": 2,
     "students": "Greg",
     "age": "51",
-    "eyecolor": "green"
+    "eyecolor": "green",
+    "grade" : "B"
   },
   {
     "id": 3,
     "students": "Dennis",
     "age": "52",
-    "eyecolor": "brown"
+    "eyecolor": "brown",
+    "grade" : "C"
   }
 ]
