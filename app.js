@@ -4,9 +4,10 @@ const app = express()
 app.use(express.json())
 app.set('port', process.env.port || 8000)
 
-const basketsRouter = require('./routes/baskets')
+const studentsData = require('./routes/students')
 
-app.use('/baskets', basketsRouter)
+app.use('/students', studentsData)
+
 app.get('/', (req, res) => {
   res.send('welcome to the app')
 })

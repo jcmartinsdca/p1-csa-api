@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1, 
+    "students": "James",
+    "age": "50",
+    "eyecolor": "blue"
+  },
+  {
+    "id": 2,
+    "students": "Greg",
+    "age": "51",
+    "eyecolor": "green"
+  },
+  {
+    "id": 3,
+    "students": "Dennis",
+    "age": "52",
+    "eyecolor": "brown"
+  }
+]
