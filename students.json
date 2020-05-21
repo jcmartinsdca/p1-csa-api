@@ -4,20 +4,26 @@
     "students": "James",
     "age": "50",
     "eyecolor": "blue",
-    "grade" : "A"
+    "grade" : "A",
+    "username" : "user1",
+    "email" : "james@foo.com"
   },
   {
     "id": 2,
     "students": "Greg",
     "age": "51",
     "eyecolor": "green",
-    "grade" : "B"
+    "grade" : "B",
+    "username" : "user2",
+    "email" : "greg@foo.com"
   },
   {
     "id": 3,
     "students": "Dennis",
     "age": "52",
     "eyecolor": "brown",
-    "grade" : "C"
+    "grade" : "C",
+    "username" : "user3",
+    "email" : "Dennis@foo.com"
   }
 ]

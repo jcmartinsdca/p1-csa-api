@@ -7,6 +7,7 @@ app.set('port', process.env.port || 8000)
 const studentsData = require('./routes/students')
 
 app.use('/students', studentsData)
+app.use('/grades', studentsData)
 
 app.get('/', (req, res) => {
   res.send('welcome to the app')
